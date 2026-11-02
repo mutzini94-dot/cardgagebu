@@ -1,0 +1,5 @@
+# 평문 거래 데이터는 절대 올리지 않음
+seed-data.js
+*.csv
+*.md
+!README.md
